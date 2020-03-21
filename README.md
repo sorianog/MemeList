@@ -1,8 +1,8 @@
 # MemeList
 
 A Kotlin-based Android app  
-<img src="screenshots/meme-list-splash.png" alt="Main Page" width="200"/>
-<img src="screenshots/meme-list-demo1.png" alt="Main Page" width="200"/>
+<img src="screenshots/meme-list-splash.png" alt="Splash Screen" width="200"/>
+<img src="screenshots/meme-list-demo1.png" alt="Home Screen" width="200"/>
 
 ## Key Components
 
